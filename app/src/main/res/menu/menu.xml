@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/donate"
+            android:icon="@drawable/donate"
+            android:title="donate"
+            />
+        <item
+            android:id="@+id/sell"
+          android:icon="@drawable/sell"
+            android:title="sell"
+            />
+        <item
+            android:id="@+id/log_out"
+            android:icon="@drawable/ic_screen_lock_rotation_black_24dp"
+            android:title="log out"
+            />
+    </group>
+    <item android:title="communicate">
+        <menu>
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/ic_supervisor_account_black_24dp"
+                android:title="About" />
+            <item
+                android:id="@+id/share"
+                android:icon="@drawable/ic_share_black_24dp"
+                android:title="Share" />
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "68724476977",
+    "firebase_url": "https://oldbooks-f1b83.firebaseio.com",
+    "project_id": "oldbooks-f1b83",
+    "storage_bucket": "oldbooks-f1b83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68724476977:android:c47cf76c19663d7aff5910",
+        "android_client_info": {
+          "package_name": "is.fb.oldbooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68724476977-htqtgp4pg0ksh10h9npj0o9lp938p1mi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "is.fb.oldbooks",
+            "certificate_hash": "c032503212c57783ab5d43972f96a8b4e15c1954"
+          }
+        },
+        {
+          "client_id": "68724476977-mvv589mdl89lplobp67qvg71tajo34rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM9jW6iB71n4WOEOj55caTvPa2NQueY68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68724476977-mvv589mdl89lplobp67qvg71tajo34rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
